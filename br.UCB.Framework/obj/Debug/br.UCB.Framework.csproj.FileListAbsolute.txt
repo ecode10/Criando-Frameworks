@@ -1,0 +1,5 @@
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\VerificacaoDeFormulario\br.UCB.Framework\bin\Debug\br.UCB.Framework.dll
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\VerificacaoDeFormulario\br.UCB.Framework\bin\Debug\br.UCB.Framework.pdb
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\VerificacaoDeFormulario\br.UCB.Framework\obj\Debug\br.UCB.Framework.dll
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\VerificacaoDeFormulario\br.UCB.Framework\obj\Debug\br.UCB.Framework.pdb
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\VerificacaoDeFormulario\br.UCB.Framework\obj\Debug\br.UCB.Framework.csprojResolveAssemblyReference.cache
